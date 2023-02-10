@@ -1,0 +1,5 @@
+#!/bin/bash
+touch README.md
+echo "Learning how to push localgit repo to github" > README.md
+mkdir 0x00-vagrant
+cp README.md /0x00-vagrant
